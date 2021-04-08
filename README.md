@@ -14,7 +14,8 @@ Company: if the company has less then 10 employees, will pay 16% tax. Else, will
 
 Result
 ---------------------------------------------------------------------
-![image](https://user-images.githubusercontent.com/10048596/113968381-f8693b00-9800-11eb-908a-ed40b9648843.png)
+![image](https://user-images.githubusercontent.com/10048596/113969151-71b55d80-9802-11eb-90b3-d248d2b70c07.png)
+
 
 Technologies
 ---------------------------------------------------------------------
