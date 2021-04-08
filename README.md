@@ -2,7 +2,9 @@
 This little project is about a class Person with two subclasses (Physical Person and Company).
 
 Class Person is an abstract class with name, annualIncome and an abstract method called tax.
+
 Class Physical Person has healthExpenditures and extends Class Person.
+
 Class Company has number of employees and extends Class Person.
 
 Observations
